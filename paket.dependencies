@@ -1,0 +1,4 @@
+source https://api.nuget.org/v3/index.json
+
+nuget System.Net.Http 4.3.3
+nuget Newtonsoft.Json 11.0.2
